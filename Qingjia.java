@@ -1,1 +1,3 @@
-public class Qingjia{}
+public class Qingjia{
+
+}
